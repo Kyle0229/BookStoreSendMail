@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.qiniu:qiniu-java-sdk:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiniu/qiniu-java-sdk/unknown/qiniu-java-sdk-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiniu/qiniu-java-sdk/unknown/qiniu-java-sdk-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qiniu/qiniu-java-sdk/unknown/qiniu-java-sdk-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
